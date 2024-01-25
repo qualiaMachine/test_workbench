@@ -62,6 +62,11 @@ paste("This", "new", "lesson", "looks", "good")
 
 :::::::::::::::::::::::::::::::::
 
+## Python Code in R Markdown
+
+```{python}
+# This is a Python code chunk
+print("Hello from Python!")
 
 ## Challenge 2: how do you nest solutions within challenge blocks?
 
